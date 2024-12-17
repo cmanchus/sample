@@ -1,1 +1,1 @@
-select * from sample_table
+select * from sample_table where sample where sample = ""
