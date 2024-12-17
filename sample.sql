@@ -1,1 +1,1 @@
-select * from 
+select * from sample_table
